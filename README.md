@@ -1,1 +1,1 @@
-# CSCI-E-29-Final-Project
+The Jupyter Notebook is fairly well documented. The end user will need a Twitter developer account to mine tweets, local MongoDb storage or use a free cloud service like I did, and the same for Ne04j. All that should be done is passwords replaced and connection strings updated to point to your cloud host provider.
